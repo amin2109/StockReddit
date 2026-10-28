@@ -1,3 +1,7 @@
+
+IN PROGRESS.
+
+
 Reddit Stock Sentiment Analysis
 
 An educational project that analyzes public Reddit discussions about stocks to explore how online sentiment and discussion volume relate to stock-market movements.
